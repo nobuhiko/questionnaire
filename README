@@ -1,0 +1,13 @@
+EC-CUBE アンケートプラグイン（仮）
+
+注意！
+EC-CUBE2.11系での動作を予定
+プラグイン機能そのものが動かないため、作りかけです
+
+1./html/user_data/plugins/questionnaire に配置する
+2./html/admin/contents/questionnaire.phpの作成
+3./data/Smarty/templates/admin/contents/subnavi.tplにナビの追加
+
+
+管理画面からアンケートを作成するとアンケートブロックが作られ、どこにでもアンケートが配置できる設計です
+
